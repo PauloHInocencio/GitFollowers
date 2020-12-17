@@ -5,7 +5,7 @@ Git Followers is a simple iOS app that shows all followers of a github's user.
 
  Here's a walkthrough of the app.
 
-<img src='https://github.com/PauloHInocencio/GHFollowers/blob/master/ghfollowers_clip.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/PauloHInocencio/GitFollowers/blob/master/ghfollowers_clip.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Functionalities
 ===========
